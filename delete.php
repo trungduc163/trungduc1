@@ -1,4 +1,7 @@
 <?php Session_start(); ?>
+<tr>
+<td></td>
+</tr>
 <?php
 	include ('connect.php');
 	$layma=$_GET['xoa'];
